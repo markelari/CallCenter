@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import com.arielmarkel.callcenter.dominio.Llamada;
+import com.amarkel.callcenter.dominio.Llamada;
 
 public class LlamadaTest {
 

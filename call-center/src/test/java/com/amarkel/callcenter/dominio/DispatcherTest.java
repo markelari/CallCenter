@@ -12,9 +12,9 @@ import java.util.concurrent.TimeUnit;
 
 import org.junit.Test;
 
-import com.arielmarkel.callcenter.dominio.Dispatcher;
-import com.arielmarkel.callcenter.dominio.Empleado;
-import com.arielmarkel.callcenter.dominio.Llamada;
+import com.amarkel.callcenter.dominio.Dispatcher;
+import com.amarkel.callcenter.dominio.Empleado;
+import com.amarkel.callcenter.dominio.Llamada;
 
 public class DispatcherTest {
 

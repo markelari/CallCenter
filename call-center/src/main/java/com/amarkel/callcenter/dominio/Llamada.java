@@ -1,4 +1,4 @@
-package com.arielmarkel.callcenter.dominio;
+package com.amarkel.callcenter.dominio;
 
 import org.apache.commons.lang3.Validate;
 

@@ -9,10 +9,10 @@ import java.util.concurrent.TimeUnit;
 
 import org.junit.Test;
 
-import com.arielmarkel.callcenter.dominio.Empleado;
-import com.arielmarkel.callcenter.dominio.EmpleadoEstado;
-import com.arielmarkel.callcenter.dominio.EmpleadoTipo;
-import com.arielmarkel.callcenter.dominio.Llamada;
+import com.amarkel.callcenter.dominio.Empleado;
+import com.amarkel.callcenter.dominio.EmpleadoEstado;
+import com.amarkel.callcenter.dominio.EmpleadoTipo;
+import com.amarkel.callcenter.dominio.Llamada;
 
 public class EmpleadoTest {
 

@@ -11,11 +11,11 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.arielmarkel.callcenter.dominio.Empleado;
-import com.arielmarkel.callcenter.dominio.EmpleadoEstado;
-import com.arielmarkel.callcenter.dominio.EmpleadoTipo;
-import com.arielmarkel.callcenter.dominio.EstrategiaAtencionLlamada;
-import com.arielmarkel.callcenter.dominio.EstrategiaAtencionLlamadaDefecto;
+import com.amarkel.callcenter.dominio.Empleado;
+import com.amarkel.callcenter.dominio.EmpleadoEstado;
+import com.amarkel.callcenter.dominio.EmpleadoTipo;
+import com.amarkel.callcenter.dominio.EstrategiaAtencionLlamada;
+import com.amarkel.callcenter.dominio.EstrategiaAtencionLlamadaDefecto;
 
 public class EstrategiaAtencionLlamadaDefectoTest {
 
